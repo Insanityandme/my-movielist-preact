@@ -10,6 +10,13 @@ I still feel like there are a lot of moving parts for such a small project and c
 just do the whole thing in one big component so that I don't have to pass props everywhere but still wanted
 to give it a try!
 
+#### Technologies 
+
+| Name                                                  | Description                                 |
+|-------------------------------------------------------|---------------------------------------------|
+| [Preact](https://preactjs.com)                        | Fast 3Kb alternative to React               |
+| [Vite](https://vite.dev/)                             | Frontend build tool                         |
+
 ## Commands to run development server, build and preview
 
 -   `npm run dev` - Starts a dev server at http://localhost:5173/
