@@ -6,7 +6,7 @@ using the command `npm init preact`
 I wanted to try a smaller version of react that fits my needs more nicely instead of a big framework and
 Preact is really good for that. Also wanted to skip build steps but I still used it to be able to use JSX.
 
-I still feel like there are a lot of moving parts for such a small project and components and would personally
+I still feel like there are a lot of moving parts and components for such a small project and would personally
 just do the whole thing in one big component so that I don't have to pass props everywhere but still wanted
 to give it a try!
 
