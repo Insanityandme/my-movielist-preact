@@ -28,3 +28,11 @@
 .delete-movie-icon {
     cursor: pointer;
 }
+
+#order-alphabetic {
+    margin-right: 10px;
+}
+
+#order-alphabetic, #order-grade {
+    margin-top: 10px;
+}
